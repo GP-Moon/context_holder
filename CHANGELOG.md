@@ -1,16 +1,20 @@
-## 0.0.1
+## 0.0.5
 
-* First release.
+* Null Safety.
 
-## 0.0.2
+## 0.0.4
 
-* Add some documentation comments.
+* Define return type.
 
 ## 0.0.3
 
 * Update readme.
 
-## 0.0.4
+## 0.0.2
 
-* Define return type.
+* Add some documentation comments.
+
+## 0.0.1
+
+* First release.
 
